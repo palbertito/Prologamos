@@ -1,0 +1,2 @@
+integer(X)<-nat(X)
+xd
